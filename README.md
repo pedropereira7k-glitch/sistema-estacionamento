@@ -30,7 +30,7 @@ Projeto em C# para controle de entrada, saída e ocupação de vagas em um estac
 
 ## Como executar
 
-1. Clone o repositório git clone https://github.com/pedropereira7k-glitch/sistema-estacionamento.git
+1. Clone o repositório: git clone https://github.com/pedropereira7k-glitch/sistema-estacionamento.git
 2. Abra o projeto no Visual Studio ou VS Code
 3. Compile e execute a aplicação com: dotnet run
 
